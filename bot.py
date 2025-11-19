@@ -8,7 +8,7 @@ from apscheduler.triggers.interval import IntervalTrigger
 from news_fetcher import get_stock_news
 
 # Hardcoded bot token
-TOKEN = "8056446844:AAHwhKlo8-ZI4j8ESuAmAgpx4uSyyEErneM"
+TOKEN = ""
 
 # Set up logging
 logging.basicConfig(
